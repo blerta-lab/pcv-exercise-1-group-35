@@ -1,6 +1,6 @@
 #============================================================================
 # Name        : main.py
-# Author      : Annamalai Lakshmanan
+# Author      : Group 35
 # Version     : 1.0
 # Copyright   : -
 # Description : Python main analogous to C++ main.cpp for PCV1
